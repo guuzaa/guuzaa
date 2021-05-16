@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: GitHub is ok.
 - ⚡ Fun fact: Life is short, use Python.
 
-- My GitHub Stats
+
 [![guuzaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guuzaa&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-- Top Languages
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guuzaa&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
