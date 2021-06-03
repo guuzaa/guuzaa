@@ -7,14 +7,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Video Understanding.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Deep Learning.
-- 📫 How to reach me: GitHub is ok.
+- 🔭 I’m currently a Master 👩‍💻.
+- 🌱 I’m currently learning Python and Video Understanding.
+- 🤔 I’m looking for help with Deep Learning and C++.
+- 📫 How to reach me: Didcord gooedenough#1092
 - ⚡ Fun fact: Life is short, use Python.
-
-
-[![guuzaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guuzaa&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guuzaa&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
