@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently a Master 👩‍💻.
+- 🔭 I’m a Master 👩‍💻.
 - 🌱 I’m currently learning Python and Video Understanding.
 - 🤔 I’m looking for help with Deep Learning and C++.
-- 📫 How to reach me: Didcord gooedenough#1092 (Yeah, a typo :P)
 - ⚡ Fun fact: Life is short, use Python.
