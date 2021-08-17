@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🔭 I’m a Master 👩‍💻.
 - 🌱 I’m currently learning Python and Video Understanding.
 - 🤔 I’m looking for help with Deep Learning and C++.
-- ⚡ Fun fact: Life is short, use Python.
+- 📫 If you want to contact me, click right [here](https://bit.ly/3AMd4i9).
