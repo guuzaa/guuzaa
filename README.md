@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 -->
 
----
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guuzaa.guuzaa)
 
 - 🔭 I’m a Master 👩‍💻.
 - 🌱 I’m currently learning Python and Video Understanding.
 - 🤔 I’m looking for help with Deep Learning and C++.
 - 📫 If you want to contact me, click right [here](https://paulden.site/about).
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=guuzaa.guuzaa)
