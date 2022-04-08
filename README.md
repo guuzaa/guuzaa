@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a postgraduage 👩‍💻.
 - 📫 If you want to contact me, [click right here](https://paulden.site/about).
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guuzaa.guuzaa)
