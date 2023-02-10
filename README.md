@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/guuzaa/guuzaa/master/assets/wave.gif" width="30px" />
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
@@ -35,19 +35,6 @@ WSL                      8 hrs 16 mins       ███████████�
 
 ```
 
-**I Mostly Code in Rust** 
 
-```text
-Rust                     2 repos             ████████████████░░░░░░░░░   66.67 % 
-C++                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/guuzaa/guuzaa/master/charts/bar_graph.png) 
-
-
- Last Updated on 10/02/2023 12:56:17 UTC
+ Last Updated on 10/02/2023 13:18:09 UTC
 <!--END_SECTION:waka-->
