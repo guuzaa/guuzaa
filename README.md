@@ -1,34 +1,38 @@
 <img src="https://raw.githubusercontent.com/guuzaa/guuzaa/master/assets/wave.gif" width="30px" />
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
+> 📦 1.3 kB Used in GitHub's Storage 
  > 
-> 📦 1.4 kB Used in GitHub's Storage 
+> 🏆 28 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 3 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Haskell                  4 hrs 34 mins       ████████████████████████░   97.33 % 
+Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
-
+WSL                      4 hrs 28 mins       ████████████████████████░   95.21 % 
+Windows                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
 
 
- Last Updated on 18/02/2023 02:24:10 UTC
+ Last Updated on 26/02/2023 02:13:16 UTC
 <!--END_SECTION:waka-->
